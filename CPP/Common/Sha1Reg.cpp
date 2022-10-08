@@ -1,6 +1,6 @@
 // Sha1Reg.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "../../C/Sha1.h"
 

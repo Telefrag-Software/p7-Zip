@@ -1,6 +1,6 @@
 // Common/ListFileUtils.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "../../C/CpuArch.h"
 

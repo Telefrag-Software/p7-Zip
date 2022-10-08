@@ -1,6 +1,6 @@
 // NtfsHandler.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 // #define SHOW_DEBUG_INFO
 // #define SHOW_DEBUG_INFO2

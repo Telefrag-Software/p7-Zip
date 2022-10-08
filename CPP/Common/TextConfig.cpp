@@ -1,6 +1,6 @@
 // Common/TextConfig.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "TextConfig.h"
 #include "UTFConvert.h"

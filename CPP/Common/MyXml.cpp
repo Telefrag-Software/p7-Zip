@@ -1,6 +1,6 @@
 // MyXml.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "MyXml.h"
 

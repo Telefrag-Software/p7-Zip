@@ -15,7 +15,7 @@
 #define towupper(c) (c)  // FIXME
 int wcscmp(const wchar_t *s1, const wchar_t *s2);
 wchar_t * wmemcpy(wchar_t *dest, const wchar_t *src, size_t num);
-wchar_t * wcsstr(const wchar_t *wcs1, const wchar_t *wcs2);
+wchar_t * wcsstr(const wchar_t *wcs1, wchar_t *wcs2);
 #endif
 
 #include "MyWindows.h"

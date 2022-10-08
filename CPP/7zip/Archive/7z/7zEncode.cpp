@@ -1,6 +1,6 @@
 // 7zEncode.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../Common/CreateCoder.h"
 #include "../../Common/FilterCoder.h"

@@ -1,6 +1,6 @@
 // Archive/TarHeader.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "TarHeader.h"
 

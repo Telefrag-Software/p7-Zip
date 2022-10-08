@@ -1,6 +1,6 @@
 // Common/StringConvert.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "StringConvert.h"
 extern "C"

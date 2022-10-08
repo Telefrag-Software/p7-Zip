@@ -1,6 +1,6 @@
 // MethodProps.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../Common/StringToInt.h"
 

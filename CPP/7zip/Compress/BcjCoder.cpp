@@ -1,6 +1,6 @@
 // BcjCoder.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "BcjCoder.h"
 

@@ -6,7 +6,7 @@ specified in "A Password Based File Encryption Utility".
 Note: you must include MyAes.cpp to project to initialize AES tables
 */
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/CpuArch.h"
 

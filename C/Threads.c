@@ -228,7 +228,8 @@ WRes Thread_Close(CThread *thread)
     if (!thread->_created) return SZ_OK;
     
     pthread_detach(thread->_tid);
-    thread->_tid = 0;
+    // TODO: fix non-portable code:
+    // thread->_tid = 0;
     thread->_created = 0;
     return SZ_OK;
 }

@@ -1,6 +1,6 @@
 // Windows/DLL.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #ifdef __APPLE_CC__
 #include <mach-o/dyld.h>

@@ -1,6 +1,6 @@
 // ByteSwap.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../Common/MyCom.h"
 

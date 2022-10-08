@@ -4,7 +4,7 @@ This code is based on:
   PPMd var.H (2001) / var.I (2002): Dmitry Shkarin : Public domain
   Carryless rangecoder (1999): Dmitry Subbotin : Public domain */
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/CpuArch.h"
 #include "../../../C/Alloc.h"

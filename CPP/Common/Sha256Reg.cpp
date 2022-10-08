@@ -1,6 +1,6 @@
 // Sha256Reg.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "../../C/Sha256.h"
 

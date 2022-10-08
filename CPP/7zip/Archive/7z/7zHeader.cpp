@@ -1,6 +1,6 @@
 // 7zHeader.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "7zHeader.h"
 

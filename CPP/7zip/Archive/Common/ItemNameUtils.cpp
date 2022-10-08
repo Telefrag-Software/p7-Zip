@@ -1,6 +1,6 @@
 // Archive/Common/ItemNameUtils.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "ItemNameUtils.h"
 

@@ -1,6 +1,6 @@
 // ProgressUtils.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "ProgressUtils.h"
 

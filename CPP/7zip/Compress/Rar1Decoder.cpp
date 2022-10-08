@@ -1,8 +1,8 @@
 // Rar1Decoder.cpp
 // According to unRAR license, this code may not be used to develop
 // a program that creates RAR archives
- 
-#include "StdAfx.h"
+
+#include "../../Common/Common.h"
 
 #include "Rar1Decoder.h"
 

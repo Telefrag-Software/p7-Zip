@@ -1,6 +1,6 @@
 // Windows/FileIO.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #include "FileIO.h"
 #include "Defs.h"

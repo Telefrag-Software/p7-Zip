@@ -1,6 +1,6 @@
 // ElfHandler.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/CpuArch.h"
 

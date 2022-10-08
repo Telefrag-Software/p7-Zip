@@ -1,6 +1,6 @@
 // Common/Lang.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "Lang.h"
 #include "StringToInt.h"

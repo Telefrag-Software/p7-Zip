@@ -1,6 +1,6 @@
 // BZip2Encoder.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/Alloc.h"
 #include "../../../C/BwtSort.h"

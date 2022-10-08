@@ -1,6 +1,6 @@
 // LzOutWindow.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "LzOutWindow.h"
 

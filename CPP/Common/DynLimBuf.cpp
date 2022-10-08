@@ -1,6 +1,6 @@
 // Common/DynLimBuf.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "DynLimBuf.h"
 #include "MyString.h"

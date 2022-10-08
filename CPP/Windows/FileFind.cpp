@@ -1,6 +1,6 @@
 // Windows/FileFind.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #include "FileFind.h"
 #include "FileIO.h"

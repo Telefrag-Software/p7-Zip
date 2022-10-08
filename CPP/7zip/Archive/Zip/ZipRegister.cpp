@@ -1,6 +1,6 @@
 // ZipRegister.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../Common/RegisterArc.h"
 

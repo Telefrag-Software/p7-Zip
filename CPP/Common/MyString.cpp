@@ -1,6 +1,6 @@
 // Common/MyString.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #ifdef _WIN32
 #include <wchar.h>

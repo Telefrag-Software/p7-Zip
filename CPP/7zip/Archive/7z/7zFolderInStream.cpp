@@ -1,6 +1,6 @@
 // 7zFolderInStream.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "7zFolderInStream.h"
 

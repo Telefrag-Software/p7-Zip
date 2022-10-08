@@ -10,7 +10,7 @@ Note:
   to see if it sets flags right.
 */
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include <stdlib.h>
 

@@ -1,6 +1,6 @@
 // Common/CRC.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "../../C/7zCrc.h"
 

@@ -1,6 +1,6 @@
 // DeflateEncoder.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/Alloc.h"
 #include "../../../C/HuffEnc.h"

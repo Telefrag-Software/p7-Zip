@@ -1,6 +1,6 @@
 // BZip2Crc.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "BZip2Crc.h"
 

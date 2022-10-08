@@ -1,6 +1,6 @@
 // HandlerOut.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #ifndef _7ZIP_ST
 #include "../../../Windows/System.h"

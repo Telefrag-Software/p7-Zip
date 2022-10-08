@@ -2,7 +2,7 @@
 // According to unRAR license, this code may not be used to develop
 // a program that creates RAR archives
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 // #include <stdio.h>
 

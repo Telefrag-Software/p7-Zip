@@ -1,6 +1,6 @@
 // NsisIn.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../../Common/IntToString.h"
 #include "../../../Common/StringToInt.h"

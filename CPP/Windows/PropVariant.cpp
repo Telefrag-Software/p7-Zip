@@ -1,6 +1,6 @@
 // Windows/PropVariant.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #include "../Common/Defs.h"
 

@@ -1,6 +1,6 @@
 // MyMap.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "MyMap.h"
 

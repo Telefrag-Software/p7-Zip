@@ -1,6 +1,6 @@
 // Archive/Iso/Header.h
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "IsoHeader.h"
 

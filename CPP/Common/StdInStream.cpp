@@ -1,6 +1,6 @@
 // Common/StdInStream.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include <tchar.h>
 

@@ -19,8 +19,7 @@
 #include <be/kernel/OS.h>
 #endif
 
-
-#include "Common/MyTypes.h"
+#include "../Common/MyTypes.h"
 
 namespace NWindows
 {

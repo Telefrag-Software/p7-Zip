@@ -1,6 +1,6 @@
 // 7zAes.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/Sha256.h"
 

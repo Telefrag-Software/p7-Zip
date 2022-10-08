@@ -1,6 +1,6 @@
 // DLLExports2.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../Common/MyWindows.h"
 

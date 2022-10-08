@@ -1,7 +1,7 @@
 // LzmsDecoder.cpp
 // The code is based on LZMS description from wimlib code
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/Alloc.h"
 

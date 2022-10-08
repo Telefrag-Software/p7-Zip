@@ -1,6 +1,6 @@
 // XzCrc64Reg.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "../../C/CpuArch.h"
 #include "../../C/XzCrc64.h"

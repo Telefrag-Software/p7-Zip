@@ -1,6 +1,6 @@
 // Windows/Synchronization.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #include "Synchronization.h"
 

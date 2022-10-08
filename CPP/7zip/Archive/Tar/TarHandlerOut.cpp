@@ -1,6 +1,6 @@
 // TarHandlerOut.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../../Common/ComTry.h"
 #include "../../../Common/Defs.h"

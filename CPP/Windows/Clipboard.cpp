@@ -1,7 +1,6 @@
 // Windows/Clipboard.cpp
 
-#include "StdAfx.h"
-
+#include "../Common/Common.h"
 
 #include "Windows/Clipboard.h"
 #include "Windows/Defs.h"

@@ -1,6 +1,6 @@
 // ProgressMt.h
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "ProgressMt.h"
 

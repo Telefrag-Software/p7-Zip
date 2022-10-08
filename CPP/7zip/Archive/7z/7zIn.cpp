@@ -1,6 +1,6 @@
 // 7zIn.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #ifdef _WIN32
 #include <wchar.h>

@@ -1,6 +1,6 @@
 // Windows/Control/Window2.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #ifndef _UNICODE
 #include "Common/StringConvert.h"

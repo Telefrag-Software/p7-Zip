@@ -3,8 +3,8 @@
 // a program that creates RAR archives
 
 /* This code uses Carryless rangecoder (1999): Dmitry Subbotin : Public domain */
- 
-#include "StdAfx.h"
+
+#include "../../Common/Common.h"
 
 #include "../../../C/Alloc.h"
 

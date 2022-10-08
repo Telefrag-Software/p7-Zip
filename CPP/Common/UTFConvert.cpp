@@ -1,6 +1,6 @@
 // UTFConvert.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "MyTypes.h"
 #include "UTFConvert.h"

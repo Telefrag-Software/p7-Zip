@@ -1,6 +1,6 @@
 // BranchRegister.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/Bra.h"
 

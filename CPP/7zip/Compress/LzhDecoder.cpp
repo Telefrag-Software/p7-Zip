@@ -1,6 +1,6 @@
 // LzhDecoder.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "LzhDecoder.h"
 

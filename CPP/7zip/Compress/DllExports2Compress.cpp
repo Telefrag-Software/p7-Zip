@@ -1,6 +1,6 @@
 // DllExports2Compress.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../Common/MyInitGuid.h"
 

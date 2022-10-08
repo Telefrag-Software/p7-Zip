@@ -1,6 +1,6 @@
 // Windows/FileDir.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #ifndef _UNICODE
 #include "../Common/StringConvert.h"

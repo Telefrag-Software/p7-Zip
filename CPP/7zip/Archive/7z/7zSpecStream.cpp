@@ -1,6 +1,6 @@
 // 7zSpecStream.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "7zSpecStream.h"
 

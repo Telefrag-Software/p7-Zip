@@ -1,6 +1,6 @@
 // VmdkHandler.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 // #include <stdio.h>
 

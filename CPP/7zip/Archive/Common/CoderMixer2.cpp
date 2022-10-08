@@ -1,6 +1,6 @@
 // CoderMixer2.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "CoderMixer2.h"
 

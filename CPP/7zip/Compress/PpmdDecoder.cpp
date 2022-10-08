@@ -1,7 +1,7 @@
 // PpmdDecoder.cpp
 // 2009-03-11 : Igor Pavlov : Public domain
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../../C/Alloc.h"
 #include "../../../C/CpuArch.h"

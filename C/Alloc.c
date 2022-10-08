@@ -195,7 +195,12 @@ void *MidAlloc(size_t size)
   #ifdef _SZ_ALLOC_DEBUG
   fprintf(stderr, "\nAlloc_Mid %10d bytes;  count = %10d", size, g_allocCountMid++);
   #endif
-  return VirtualAlloc(size, 0);
+
+  #if _WIN32
+    return VirtualAlloc(NULL, size, MEM_COMMIT, PAGE_READWRITE);
+  #else
+    return VirtualAlloc(size, 0);
+  #endif // _WIN32
 }
 
 void MidFree(void *address)
@@ -204,9 +209,15 @@ void MidFree(void *address)
   if (address != 0)
     fprintf(stderr, "\nFree_Mid; count = %10d", --g_allocCountMid);
   #endif
+
   if (address == 0)
     return;
-  VirtualFree(address);
+
+  #if _WIN32
+    VirtualFree(address, 0, MEM_RELEASE);
+  #else
+    VirtualFree(address);
+  #endif // _WIN32
 }
 
 #ifdef _7ZIP_LARGE_PAGES
@@ -303,7 +314,12 @@ void *BigAlloc(size_t size)
       return res;
   }
   #endif
-  return VirtualAlloc(size, 0);
+
+  #if _WIN32
+    return VirtualAlloc(NULL, size, MEM_COMMIT, PAGE_READWRITE);
+  #else
+    return VirtualAlloc(size, 0);
+  #endif // _WIN32
 }
 
 void BigFree(void *address)
@@ -315,7 +331,12 @@ void BigFree(void *address)
 
   if (address == 0)
     return;
-  VirtualFree(address);
+
+  #if _WIN32
+    VirtualFree(address, 0, MEM_RELEASE);
+  #else
+    VirtualFree(address);
+  #endif _WIN32
 }
 
 static void *SzAlloc(void *p, size_t size) { UNUSED_VAR(p); return MyAlloc(size); }

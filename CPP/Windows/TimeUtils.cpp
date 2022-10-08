@@ -1,6 +1,6 @@
 // Windows/TimeUtils.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #include "Defs.h"
 #include "TimeUtils.h"

@@ -1,6 +1,6 @@
 // Windows/ErrorMsg.h
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #include "Windows/ErrorMsg.h"
 #include "Common/StringConvert.h"

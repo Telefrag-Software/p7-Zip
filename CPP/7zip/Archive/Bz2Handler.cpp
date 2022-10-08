@@ -1,6 +1,6 @@
 // Bz2Handler.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../../Common/ComTry.h"
 

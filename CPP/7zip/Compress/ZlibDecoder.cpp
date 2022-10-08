@@ -1,6 +1,6 @@
 // ZlibDecoder.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "../Common/StreamUtils.h"
 

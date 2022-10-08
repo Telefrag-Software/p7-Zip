@@ -1,6 +1,6 @@
 // Windows/FileName.cpp
 
-#include "StdAfx.h"
+#include "../Common/Common.h"
 
 #include "Windows/FileName.h"
 #include "Common/Wildcard.h"

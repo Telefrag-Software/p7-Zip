@@ -1,6 +1,6 @@
 // Crypto/RarAes.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "RarAes.h"
 #include "Sha1Cls.h"

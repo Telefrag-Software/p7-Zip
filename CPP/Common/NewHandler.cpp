@@ -1,6 +1,6 @@
 // NewHandler.cpp
- 
-#include "StdAfx.h"
+
+#include "Common.h"
 
 #include "../../C/Alloc.h"
 

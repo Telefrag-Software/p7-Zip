@@ -1,6 +1,6 @@
 // ZipOut.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../Common/OffsetStream.h"
 

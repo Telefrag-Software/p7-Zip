@@ -1,6 +1,6 @@
 // OutStreamWithCRC.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "OutStreamWithCRC.h"
 

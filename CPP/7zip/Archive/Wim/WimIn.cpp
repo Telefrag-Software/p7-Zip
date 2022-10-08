@@ -1,6 +1,6 @@
 // Archive/WimIn.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 // #define SHOW_DEBUG_INFO
 

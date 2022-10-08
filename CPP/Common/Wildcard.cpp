@@ -1,6 +1,6 @@
 // Common/Wildcard.cpp
 
-#include "StdAfx.h"
+#include "Common.h"
 
 #include "Wildcard.h"
 

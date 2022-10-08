@@ -1,6 +1,6 @@
 // CreateCoder.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../Windows/Defs.h"
 #include "../../Windows/PropVariant.h"

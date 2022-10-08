@@ -1,6 +1,6 @@
 // TarUpdate.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../../Windows/TimeUtils.h"
 

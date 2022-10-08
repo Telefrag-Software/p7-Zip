@@ -1,6 +1,6 @@
 // LimitedStreams.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include <string.h>
 

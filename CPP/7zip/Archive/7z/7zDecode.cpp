@@ -1,6 +1,6 @@
 // 7zDecode.cpp
 
-#include "StdAfx.h"
+#include "../../../Common/Common.h"
 
 #include "../../Common/LimitedStreams.h"
 #include "../../Common/ProgressUtils.h"

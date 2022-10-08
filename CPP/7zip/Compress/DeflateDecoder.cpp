@@ -1,6 +1,6 @@
 // DeflateDecoder.cpp
 
-#include "StdAfx.h"
+#include "../../Common/Common.h"
 
 #include "DeflateDecoder.h"
 
